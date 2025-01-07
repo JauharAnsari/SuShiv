@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "243024493417",
+    "firebase_url": "https://sushiv-540dc-default-rtdb.firebaseio.com",
+    "project_id": "sushiv-540dc",
+    "storage_bucket": "sushiv-540dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243024493417:android:a6ba49b5ab3466825edbf8",
+        "android_client_info": {
+          "package_name": "com.example.sushiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHJuLecHTDVV1e2qxrmit5lLPXv8-vg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
